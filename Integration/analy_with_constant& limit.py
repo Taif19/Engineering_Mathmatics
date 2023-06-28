@@ -1,3 +1,5 @@
+#modify done from source =youtube_channel/Python Tutorial Series/integrals1.ipynb
+
 import numpy as np
 import sympy as smp
 from scipy.integrate import quad
