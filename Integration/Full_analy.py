@@ -1,3 +1,5 @@
+#source= youtube_channel/Python Tutorial Series/integrals1.ipynb
+
 import numpy as np
 import scipy as sp
 import sympy as smp
